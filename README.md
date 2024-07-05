@@ -21,6 +21,10 @@ You can interact with the design demo on Figma:
 
 [Inside Out UI/UX Design Demo](https://www.figma.com/proto/CWQXdZJFSyfwOd5SjGwTLP/Inside-Out-UI%2FUX-Design-Trial-2?page-id=25%3A446&node-id=78-81&viewport=100%2C313%2C0.05&t=ZyNwiXvExioZASxK-1&scaling=scale-down-width&content-scaling=fixed)
 
+You can also view the project on Behance:
+
+[Inside Out UI/UX Design on Behance](https://www.behance.net/gallery/202554521/Inside-Out)
+
 
 ## Design Preview
 
