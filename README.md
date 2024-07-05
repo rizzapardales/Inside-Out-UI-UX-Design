@@ -7,7 +7,7 @@ Welcome to the UI/UX redesign project for Pixar's "Inside Out 2". This project a
 ## Redesign Links
 
 
-The following links are the original pages we have redesigned:
+The following links are the original pages I have redesigned:
 
 
 - [Inside Out](https://www.pixar.com/feature-films/inside-out)
@@ -17,7 +17,7 @@ The following links are the original pages we have redesigned:
 ## Design Preview
 
 
-Check out our design preview video to see the new interface in action:
+Check out our design preview image to see the new interface in action:
 
 
 <img src="img/Mockup.png" alt="Website Preview" style="border: 2px solid #FF6347;">
