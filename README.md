@@ -1,7 +1,7 @@
 # Inside Out
 
 
-Welcome to the UI/UX redesign project for Pixar's "Inside Out 2". This project aims to enhance the user experience and interface design of the respective web pages.
+The Inside Out website redesign project focuses on enhancing the user interface (UI) and user experience (UX) for Pixar's popular feature film, "Inside Out," and its sequel, "Inside Out 2." The goal is to create a more engaging, intuitive, and visually appealing website that captures the essence of the films while providing users with a seamless and enjoyable browsing experience.
 
 
 ## Redesign Links
@@ -29,7 +29,7 @@ You can also view the project on Behance:
 ## Design Preview
 
 
-Check out our design preview image to see the new interface in action:
+Check out the design preview image to see the new interface:
 
 
 <img src="img/Mockup.png" alt="Website Preview" style="border: 2px solid #FF6347;">
